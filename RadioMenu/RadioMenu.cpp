@@ -1,5 +1,6 @@
 #include "RadioMenu.h"
 
+//LOL
 RadioMenu * RadioMenu::create(MenuItem* item, ...)
 {
 	va_list args;
